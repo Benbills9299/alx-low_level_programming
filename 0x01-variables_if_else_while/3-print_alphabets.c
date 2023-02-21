@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	char alp[26] = "abcdefghijklmnopqrstuvwxyz"
+	char alp[26] = "abcdefghijklmnopqrstuvwxyz";
 	char BIGALP[26] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	int i;
 	int o;
