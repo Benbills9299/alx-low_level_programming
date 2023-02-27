@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  * print_sign - Entr point
  * @n: carrier variable
