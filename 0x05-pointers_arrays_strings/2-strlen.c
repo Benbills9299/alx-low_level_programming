@@ -1,17 +1,17 @@
-#include <string.h>
-
 /**
- * _strlen - checks the length of a string
-* @s: string to check
- *
- * Return: int length of the string
- *
- */
-
+  * _strlen - Returns the length of a string
+  * @s: String to count
+  *
+  * Return: String length
+  */
 int _strlen(char *s)
 {
-	int strlenght = strlen(*s);
+	int c = 0;
 
-	return (strlenght);
+	for (; *s != '\0'; s++)
+	{
+		c++;
+	}
+
+	return (c);
 }
-
