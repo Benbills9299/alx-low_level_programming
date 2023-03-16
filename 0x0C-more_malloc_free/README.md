@@ -1,0 +1,3 @@
+| power | class |
+| :---: | :---: |
+| aram  | cake  |
