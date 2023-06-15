@@ -3,7 +3,7 @@
 This repository contains solutions for the tasks in the "0x0C. C - More malloc, free" project, which is part of the low-level programming curriculum at Alx.
 
 
-- [Author](#Godspower Onobia)
+- [Author](Godspower Onobia)
 
 ## Introduction
 
